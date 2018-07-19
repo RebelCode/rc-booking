@@ -13,9 +13,12 @@
     "prefer-stable": true,
     "require": {
         "php": "^5.4 | ^7.0",
+        "rebelcode/booking-interface": "^0.2-alpha1",
         "rebelcode/rc-booking-interface": "^0.1-alpha1",
         "rebelcode/time-abstract": "^0.1-alpha1",
+        "dhii/data-state-interface": "^0.1-alpha3",
         "dhii/data-state-base": "dev-task/initial-classes",
+        "dhii/factory-interface": "^0.1-alpha3",
         "dhii/factory-base": "^0.1-alpha3",
         "dhii/exception": "^0.1-alpha4"
     },
@@ -48,5 +51,10 @@
             "type": "vcs",
             "url": "https://github.com/Dhii/data-state-base.git"
         }
-    ]
+    ],
+    "config": {
+        "platform": {
+            "php": "5.4.0"
+        }
+    }
 }

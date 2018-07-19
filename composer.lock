@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "4c7f5cdb85e5801046df1e30a3d20507",
+    "content-hash": "d60a5a93de86151c7fbb4af30618b293",
     "packages": [
         {
             "name": "dhii/args-list-validation",
@@ -403,16 +403,16 @@
         },
         {
             "name": "dhii/data-state-abstract",
-            "version": "dev-develop",
+            "version": "v0.1-alpha1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Dhii/data-state-abstract.git",
-                "reference": "52ce4cff59124f35dbd9a14ec39e5637fdacedef"
+                "reference": "16223208b480e1ec77d17cc89e8819d41eee8c98"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Dhii/data-state-abstract/zipball/52ce4cff59124f35dbd9a14ec39e5637fdacedef",
-                "reference": "52ce4cff59124f35dbd9a14ec39e5637fdacedef",
+                "url": "https://api.github.com/repos/Dhii/data-state-abstract/zipball/16223208b480e1ec77d17cc89e8819d41eee8c98",
+                "reference": "16223208b480e1ec77d17cc89e8819d41eee8c98",
                 "shasum": ""
             },
             "require": {
@@ -450,7 +450,7 @@
                 }
             ],
             "description": "Abstract functionality for handling objects with state.",
-            "time": "2018-07-06T12:13:57+00:00"
+            "time": "2018-07-13T16:17:39+00:00"
         },
         {
             "name": "dhii/data-state-base",
@@ -458,12 +458,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Dhii/data-state-base.git",
-                "reference": "d0ac27e7e2c2bef8dfb9ec7755c2874498f196be"
+                "reference": "a4ddcf6820f5346dadba877251eb038858d08920"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Dhii/data-state-base/zipball/d0ac27e7e2c2bef8dfb9ec7755c2874498f196be",
-                "reference": "d0ac27e7e2c2bef8dfb9ec7755c2874498f196be",
+                "url": "https://api.github.com/repos/Dhii/data-state-base/zipball/a4ddcf6820f5346dadba877251eb038858d08920",
+                "reference": "a4ddcf6820f5346dadba877251eb038858d08920",
                 "shasum": ""
             },
             "require": {
@@ -516,23 +516,24 @@
                 "source": "https://github.com/Dhii/data-state-base/tree/task/initial-classes",
                 "issues": "https://github.com/Dhii/data-state-base/issues"
             },
-            "time": "2018-07-12T10:55:32+00:00"
+            "time": "2018-07-13T16:20:38+00:00"
         },
         {
             "name": "dhii/data-state-interface",
-            "version": "v0.1-alpha2",
+            "version": "v0.1-alpha5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Dhii/data-state-interface.git",
-                "reference": "50a2de1183cc45b18820d14fe583817ca8c10ab3"
+                "reference": "8ecc632f17ca781d0065a3f6effa83e6d7968103"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Dhii/data-state-interface/zipball/50a2de1183cc45b18820d14fe583817ca8c10ab3",
-                "reference": "50a2de1183cc45b18820d14fe583817ca8c10ab3",
+                "url": "https://api.github.com/repos/Dhii/data-state-interface/zipball/8ecc632f17ca781d0065a3f6effa83e6d7968103",
+                "reference": "8ecc632f17ca781d0065a3f6effa83e6d7968103",
                 "shasum": ""
             },
             "require": {
+                "dhii/factory-interface": "^0.1-alpha3",
                 "php": "^5.3 | ^7.0"
             },
             "require-dev": {
@@ -564,7 +565,7 @@
                 }
             ],
             "description": "Interfaces for dealing with stateful data objects.",
-            "time": "2018-07-06T09:11:56+00:00"
+            "time": "2018-07-19T11:21:08+00:00"
         },
         {
             "name": "dhii/exception",
@@ -730,16 +731,16 @@
         },
         {
             "name": "dhii/factory-interface",
-            "version": "v0.1-alpha2",
+            "version": "v0.1-alpha3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Dhii/factory-interface.git",
-                "reference": "f5180bde74ba778a8e7269bf92e8420f7527c512"
+                "reference": "45323d53d3fe4cc82e66d2a38c6bb19f933b9c0e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Dhii/factory-interface/zipball/f5180bde74ba778a8e7269bf92e8420f7527c512",
-                "reference": "f5180bde74ba778a8e7269bf92e8420f7527c512",
+                "url": "https://api.github.com/repos/Dhii/factory-interface/zipball/45323d53d3fe4cc82e66d2a38c6bb19f933b9c0e",
+                "reference": "45323d53d3fe4cc82e66d2a38c6bb19f933b9c0e",
                 "shasum": ""
             },
             "require": {
@@ -776,7 +777,7 @@
                 }
             ],
             "description": "Interfaces for working with factories.",
-            "time": "2018-03-07T11:08:40+00:00"
+            "time": "2018-07-19T10:15:04+00:00"
         },
         {
             "name": "dhii/i18n-helper-base",
@@ -1465,17 +1466,17 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/RebelCode/booking-interface.git",
-                "reference": "7a83896af587baf2877d248e98d0ef5e7474d851"
+                "reference": "8be3eca7b9ca25608e42fbd832eda40e39151553"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/RebelCode/booking-interface/zipball/7a83896af587baf2877d248e98d0ef5e7474d851",
-                "reference": "7a83896af587baf2877d248e98d0ef5e7474d851",
+                "url": "https://api.github.com/repos/RebelCode/booking-interface/zipball/8be3eca7b9ca25608e42fbd832eda40e39151553",
+                "reference": "8be3eca7b9ca25608e42fbd832eda40e39151553",
                 "shasum": ""
             },
             "require": {
                 "dhii/data-identifiable-interface": "^0.1",
-                "dhii/factory-interface": "^0.1-alpha2",
+                "dhii/factory-interface": "^0.1-alpha3",
                 "dhii/time-interface": "^0.1-alpha1",
                 "php": "^5.3 | ^7.0"
             },
@@ -1508,7 +1509,7 @@
                 }
             ],
             "description": "Interfaces for bookings.",
-            "time": "2018-07-05T15:29:38+00:00"
+            "time": "2018-07-19T11:22:04+00:00"
         },
         {
             "name": "rebelcode/rc-booking-interface",
