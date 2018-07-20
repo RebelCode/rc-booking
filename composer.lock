@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "d60a5a93de86151c7fbb4af30618b293",
+    "content-hash": "a230457dec89e69928dfa6667d8064dd",
     "packages": [
         {
             "name": "dhii/args-list-validation",
@@ -403,16 +403,16 @@
         },
         {
             "name": "dhii/data-state-abstract",
-            "version": "v0.1-alpha1",
+            "version": "v0.1-alpha2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Dhii/data-state-abstract.git",
-                "reference": "16223208b480e1ec77d17cc89e8819d41eee8c98"
+                "reference": "7a47d29b817b53f984ef19e0cc32df4bfc0c7711"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Dhii/data-state-abstract/zipball/16223208b480e1ec77d17cc89e8819d41eee8c98",
-                "reference": "16223208b480e1ec77d17cc89e8819d41eee8c98",
+                "url": "https://api.github.com/repos/Dhii/data-state-abstract/zipball/7a47d29b817b53f984ef19e0cc32df4bfc0c7711",
+                "reference": "7a47d29b817b53f984ef19e0cc32df4bfc0c7711",
                 "shasum": ""
             },
             "require": {
@@ -450,7 +450,7 @@
                 }
             ],
             "description": "Abstract functionality for handling objects with state.",
-            "time": "2018-07-13T16:17:39+00:00"
+            "time": "2018-07-20T09:54:55+00:00"
         },
         {
             "name": "dhii/data-state-base",
@@ -1466,12 +1466,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/RebelCode/booking-interface.git",
-                "reference": "8be3eca7b9ca25608e42fbd832eda40e39151553"
+                "reference": "e1b42417f104d4d3cddabba7c497b4ae02b5f9ad"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/RebelCode/booking-interface/zipball/8be3eca7b9ca25608e42fbd832eda40e39151553",
-                "reference": "8be3eca7b9ca25608e42fbd832eda40e39151553",
+                "url": "https://api.github.com/repos/RebelCode/booking-interface/zipball/e1b42417f104d4d3cddabba7c497b4ae02b5f9ad",
+                "reference": "e1b42417f104d4d3cddabba7c497b4ae02b5f9ad",
                 "shasum": ""
             },
             "require": {
@@ -1509,7 +1509,7 @@
                 }
             ],
             "description": "Interfaces for bookings.",
-            "time": "2018-07-19T11:22:04+00:00"
+            "time": "2018-07-19T14:53:48+00:00"
         },
         {
             "name": "rebelcode/rc-booking-interface",
