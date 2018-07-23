@@ -5,6 +5,39 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" packagePrefix="RebelCode\Bookings\" />
       <sourceFolder url="file://$MODULE_DIR$/test/unit" isTestSource="true" packagePrefix="RebelCode\Bookings\UnitTest\" />
       <sourceFolder url="file://$MODULE_DIR$/test/functional" isTestSource="true" packagePrefix="RebelCode\Bookings\FuncTest\" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dhii/args-list-validation" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dhii/callback-abstract" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dhii/collections-interface" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dhii/container-helper-base" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dhii/data-container-abstract" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dhii/data-container-base" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dhii/data-container-interface" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dhii/data-identifiable-interface" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dhii/data-key-value-aware-interface" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dhii/data-state-abstract" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dhii/data-state-base" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dhii/data-state-interface" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dhii/exception" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dhii/exception-interface" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dhii/factory-base" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dhii/factory-interface" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dhii/i18n-helper-base" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dhii/i18n-interface" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dhii/invocable-base" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dhii/invocable-interface" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dhii/iterator-helper-base" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dhii/machine-state-machine-interface" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dhii/normalization-helper-base" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dhii/state-machine-abstract" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dhii/stringable-interface" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dhii/time-interface" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dhii/validation-abstract" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dhii/validation-base" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dhii/validation-interface" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/rebelcode/booking-interface" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/rebelcode/rc-booking-interface" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/rebelcode/time-abstract" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
