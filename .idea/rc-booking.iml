@@ -38,6 +38,7 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/rebelcode/booking-interface" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/rebelcode/rc-booking-interface" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/rebelcode/time-abstract" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/console" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

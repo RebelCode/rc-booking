@@ -33,7 +33,6 @@
       <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
       <path value="$PROJECT_DIR$/vendor/symfony/process" />
       <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
-      <path value="$PROJECT_DIR$/vendor/symfony/console" />
       <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
       <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
       <path value="$PROJECT_DIR$/vendor/symfony/finder" />
@@ -71,6 +70,7 @@
       <path value="$PROJECT_DIR$/vendor/dhii/data-key-value-aware-interface" />
       <path value="$PROJECT_DIR$/vendor/rebelcode/rc-booking-interface" />
       <path value="$PROJECT_DIR$/vendor/rebelcode/time-abstract" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="5.4.0" />

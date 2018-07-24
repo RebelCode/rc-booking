@@ -17,7 +17,7 @@
         "rebelcode/rc-booking-interface": "^0.1-alpha1",
         "rebelcode/time-abstract": "^0.1-alpha1",
         "dhii/data-state-interface": "^0.1-alpha3",
-        "dhii/data-state-base": "dev-task/initial-classes",
+        "dhii/data-state-base": "^0.1-alpha1",
         "dhii/factory-interface": "^0.1-alpha3"
     },
     "require-dev": {

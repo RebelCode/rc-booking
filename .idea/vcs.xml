@@ -6,6 +6,7 @@
     <mapping directory="$PROJECT_DIR$/vendor/dhii/data-state-base" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/vendor/rebelcode/booking-interface" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/vendor/rebelcode/rc-booking-interface" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/console" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/vendor/symfony/debug" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/vendor/symfony/filesystem" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/vendor/symfony/stopwatch" vcs="Git" />
